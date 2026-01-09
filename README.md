@@ -1,4 +1,4 @@
-# Option-Strat
+# Option-Strategy
 
 ## The Complete Options Trading Toolkit
 
